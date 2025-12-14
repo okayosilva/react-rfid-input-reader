@@ -2,6 +2,7 @@
   "name": "react-rfid-input-reader",
   "version": "0.0.0",
   "private": false,
+  "license": "MIT",
   "type": "module",
   "main": "./dist/main.js",
   "module": "./dist/main.mjs",
